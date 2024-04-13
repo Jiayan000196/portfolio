@@ -22,25 +22,18 @@ header {
   position: absolute;
   left: 1.5em;
   top: 1.5em;
-  color: black;
+  color: white;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 25px;
   font-weight: bolder;
-}
-
-.img-fluid {
-  opacity: 0.5;
 }
 
 #header-navbar {
   position: absolute;
   right: 1.5em;
   top: 1.5em;
-  color: black;
+  color: white;
 }
- .heading-1, .heading-2 {
-  color: black;
- }
 
 #main {
   padding: 2em 5em;
